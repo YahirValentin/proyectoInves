@@ -6,8 +6,8 @@
 public class Main {
 
     public static void main(String[] args) {
-        ProyectoInves mainWindow = new ProyectoInves();
-        mainWindow.setVisible(true);
+        ProyectoInves teoria = new ProyectoInves();
+        teoria.setVisible(true);
     }
 
 }
